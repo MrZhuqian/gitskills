@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greata.Express.Business", "Greata.Express.Business\Greata.Express.Business.csproj", "{AE5F37BE-C6D2-4134-8D79-5D18915F83AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greata.Express.Web", "Greata.Express.Web\Greata.Express.Web.csproj", "{5D31E7DB-1FA0-44C4-9602-48502456B081}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greata.Express.Model", "Greata.Express.Model\Greata.Express.Model.csproj", "{F3A4E4ED-B3DB-414C-9B0B-5401D4771CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greata.Express.Repository", "Greata.Express.Repository\Greata.Express.Repository.csproj", "{4D8E60F2-8ADC-4024-B599-F3C8EC6E30D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greata.Express.WebAPI", "Greata.Express.WebAPI\Greata.Express.WebAPI.csproj", "{2E0550E4-3122-415D-B514-95ECF8D5DDCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greata.Express.UnitTest", "Greata.Express.UnitTest\Greata.Express.UnitTest.csproj", "{4B8C1948-DB87-40C0-B3CE-B77661BFDAC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE5F37BE-C6D2-4134-8D79-5D18915F83AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5F37BE-C6D2-4134-8D79-5D18915F83AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5F37BE-C6D2-4134-8D79-5D18915F83AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5F37BE-C6D2-4134-8D79-5D18915F83AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D31E7DB-1FA0-44C4-9602-48502456B081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D31E7DB-1FA0-44C4-9602-48502456B081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D31E7DB-1FA0-44C4-9602-48502456B081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D31E7DB-1FA0-44C4-9602-48502456B081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3A4E4ED-B3DB-414C-9B0B-5401D4771CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A4E4ED-B3DB-414C-9B0B-5401D4771CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A4E4ED-B3DB-414C-9B0B-5401D4771CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A4E4ED-B3DB-414C-9B0B-5401D4771CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D8E60F2-8ADC-4024-B599-F3C8EC6E30D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8E60F2-8ADC-4024-B599-F3C8EC6E30D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8E60F2-8ADC-4024-B599-F3C8EC6E30D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8E60F2-8ADC-4024-B599-F3C8EC6E30D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0550E4-3122-415D-B514-95ECF8D5DDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0550E4-3122-415D-B514-95ECF8D5DDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0550E4-3122-415D-B514-95ECF8D5DDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0550E4-3122-415D-B514-95ECF8D5DDCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8C1948-DB87-40C0-B3CE-B77661BFDAC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8C1948-DB87-40C0-B3CE-B77661BFDAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8C1948-DB87-40C0-B3CE-B77661BFDAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8C1948-DB87-40C0-B3CE-B77661BFDAC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
